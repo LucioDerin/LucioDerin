@@ -1,16 +1,12 @@
-### Hi there 👋
+Education:
+- High School: Scientific Lyceum, Applied Sciences curriculum;
+- Bachelor's Degree: Physics at University of Genoa;
+- Currently Studying: Master in Physics at University of Genoa, Foundamental Interactions curriculum (Particle Physics/Astrophysics);
 
-<!--
-**LucioDerin/LucioDerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a strong experimental vocation. My study path includes university courses on: Statistics, Machine Learning (both supervised and unsupervised learning), Data Analysis, Signal Processing, Analogic and Digital electronic systems, simulation methods (Montecarlo Methods).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages:
+- Python;
+- C++;
+- Verilog;
+- Matlab;
